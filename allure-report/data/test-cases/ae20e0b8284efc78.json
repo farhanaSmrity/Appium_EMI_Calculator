@@ -1,0 +1,90 @@
+{
+  "uid" : "ae20e0b8284efc78",
+  "name" : "RunTest",
+  "fullName" : "TestRunner.TestRunner.RunTest",
+  "historyId" : "d9f8eef78b7aa6e42e91084522cd5554",
+  "time" : {
+    "start" : 1663303189920,
+    "stop" : 1663303196106,
+    "duration" : 6186
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "TestRunner.TestRunner"
+  }, {
+    "name" : "testClass",
+    "value" : "TestRunner.TestRunner"
+  }, {
+    "name" : "testMethod",
+    "value" : "RunTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "EmiCalB3"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestRunner.TestRunner"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-OIJ72PC"
+  }, {
+    "name" : "thread",
+    "value" : "14532@DESKTOP-OIJ72PC.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "99000000"
+  }, {
+    "name" : "arg1",
+    "value" : "10.0"
+  }, {
+    "name" : "arg2",
+    "value" : "4"
+  }, {
+    "name" : "arg3",
+    "value" : "1.25"
+  }, {
+    "name" : "arg4",
+    "value" : "2510896"
+  }, {
+    "name" : "arg5",
+    "value" : "21522996"
+  }, {
+    "name" : "arg6",
+    "value" : "1237500"
+  }, {
+    "name" : "arg7",
+    "value" : "120522996"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ae20e0b8284efc78.json",
+  "parameterValues" : [ "99000000", "10.0", "4", "1.25", "2510896", "21522996", "1237500", "120522996" ]
+}
